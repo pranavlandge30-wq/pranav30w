@@ -1,0 +1,6 @@
+{
+  "name": "Campus Premium Shoes",
+  "description": "A high-end futuristic and luxury sneaker eCommerce store featuring premium footwear, interactive 3D/parallax showcases, and an immersive shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
